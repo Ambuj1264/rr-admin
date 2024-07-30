@@ -1,0 +1,22 @@
+/* textarea#mui-2 {
+    margin-top: 20px !important;
+}
+textarea#mui-1 {
+    margin-top: 20px !important;
+} */
+.MuiBox-root.css-13o7eu2 {
+    margin-top: 0px !important;
+}
+
+@media (min-width: 1020px) {
+    /* textarea#mui-2 {
+      margin-top: 20px !important;
+    } */
+    .MuiBox-root.css-13o7eu2 {
+        margin-top: -77px;
+    }
+    textarea#mui-1 {
+      margin-top: 20px !important;
+    }
+  }
+  

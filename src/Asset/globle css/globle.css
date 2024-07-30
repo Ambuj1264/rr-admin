@@ -1,0 +1,64 @@
+.MuiBox-root.css-13o7eu2 {
+  margin-top: -79px !important;
+}
+
+@media (max-width: 1279px) {
+  .MuiBox-root.css-13o7eu2 {
+    margin-top: 0px !important;
+    
+  }
+  /* textarea#mui-2,
+  textarea#mui-1 {
+    margin-top: 20px !important;
+  } */
+}
+@media (min-width: 204px) and (max-width: 1200px) {
+  .MuiBox-root.css-1y916ii {
+    display: flex !important;
+  }
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textSecondary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1uoat66-MuiButtonBase-root-MuiButton-root {
+    display: flex !important;
+  }
+}
+/* form errors */
+
+.form-error {
+  padding-left: 10px !important;
+  color: red !important;
+  font-size: 13px !important;
+}
+
+td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-d4nlz6-MuiTableCell-root {
+    word-break: break-all;
+}
+
+
+.css-stelg4-MuiPaper-root-MuiCard-root{
+  width: 100% !important;
+}
+
+@media(min-width:1280px){
+.css-kjeztr-MuiGrid-root {
+
+    max-width: 100% !important;
+
+}
+}
+.css-kjeztr-MuiGrid-root {
+
+  max-width: 100% !important;
+
+}
+.css-z57lvz-MuiGrid-root{
+  margin-left: 0 !important;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.css-z57lvz-MuiGrid-root {
+  display: block;
+  width: 100%;
+}
+.css-z57lvz-MuiGrid-root{
+  margin-left: 0 !important;
+}
+.css-z57lvz-MuiGrid-root>.MuiGrid-item{
+  padding-left: 0 !important;
+}

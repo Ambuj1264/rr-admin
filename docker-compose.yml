@@ -1,0 +1,12 @@
+version: '3'
+services:
+  resource_reservation_admin_ui:
+    image: resource_reservation_admin_ui
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    container_name: resource_reservation_admin_ui
+    volumes:
+       - ./:/app/resource_reservation_admin_ui
