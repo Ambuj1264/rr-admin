@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://git.devtrust.biz/gitlab-instance-7e50b380/resource_reservation_admin.git
+git remote add origin https://git.ambuj.biz/gitlab-instance-7e50b380/resource_reservation_admin.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://git.devtrust.biz/gitlab-instance-7e50b380/resource_reservation_admin/-/settings/integrations)
+- [ ] [Set up project integrations](https://git.ambuj.biz/gitlab-instance-7e50b380/resource_reservation_admin/-/settings/integrations)
 
 ## Collaborate with your team
 
